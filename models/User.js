@@ -23,14 +23,6 @@ const userSchema = Schema(
       required: true,
       unique: true,
     },
-    promptTokens: {
-      type: Number,
-      required: false,
-    },
-    completionTokens: {
-      type: Number,
-      required: false,
-    },
   },
   {
     timestamps: true,
