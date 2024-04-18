@@ -18,6 +18,8 @@
 
 ## 🚀 Getting Started
 
+<img  style='border-radius: 8px' width="100%" src="./public/architecture.png" atl="architecture-image" />
+
 Clone the repository and start read the docs today!
 
 ```sh
